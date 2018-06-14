@@ -1,0 +1,3 @@
+/home/scy/Documents/compilingLab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/scy/Documents/compilingLab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scy/Documents/compilingLab2/cmake-build-debug/CMakeFiles/compilingLab2.dir
