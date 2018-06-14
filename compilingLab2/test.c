@@ -51,5 +51,6 @@ int main(){
 		}
 		l++;
 	}
+	a=666;
 	return 0;
 }
